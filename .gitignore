@@ -76,3 +76,5 @@ BehavioralData/.DS_Store
 *.eps
 
 *.jpeg
+
+Data/seaborn_subplots.png
